@@ -13,5 +13,78 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Bronze">
+      <UniqueIdentifier>{f25c0d48-0a10-405b-ae6d-872073285c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Silver">
+      <UniqueIdentifier>{8087ac5d-2d55-47c1-808c-5520fa1d2826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gold">
+      <UniqueIdentifier>{24c51139-18bc-4cce-aba4-66d6f8f2d17f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Platinum">
+      <UniqueIdentifier>{0f261181-27f2-4a13-9e46-169cf2c78046}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1008_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="1330_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="2438_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="2557_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="2562_BronzeIII.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="2675_BronzeII.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="2739_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="10818_BronzeIII.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="10869_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="10950_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="10951_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="10952_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="11654_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="25083_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="27866_BronzeV.cpp">
+      <Filter>Source Files\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="30453_GoldIV.cpp">
+      <Filter>Source Files\Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="6549_PlatinumV.cpp">
+      <Filter>Source Files\Platinum</Filter>
+    </ClCompile>
+    <ClCompile Include="1725_PlatinumV.cpp">
+      <Filter>Source Files\Platinum</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="10951_BronzeV.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
